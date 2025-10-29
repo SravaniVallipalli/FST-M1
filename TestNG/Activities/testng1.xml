@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite classes ="false" name="Suite">
+ <groups> <!-- Groups Control -->
+        <run>
+            <include name="HeaderTest" />
+            <include name="ButtonTest" />
+        </run>
+    </groups>
+  <test name="Test">
+    <classes>
+      <class name="Activities.Activity5"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
